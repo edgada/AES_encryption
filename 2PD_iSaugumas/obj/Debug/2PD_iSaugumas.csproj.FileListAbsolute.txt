@@ -1,0 +1,10 @@
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\bin\Debug\2PD_iSaugumas.exe.config
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\bin\Debug\2PD_iSaugumas.exe
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\bin\Debug\2PD_iSaugumas.pdb
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\_2PD_iSaugumas.Properties.Resources.resources
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\2PD_iSaugumas.csproj.GenerateResource.Cache
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\2PD_iSaugumas.csproj.CoreCompileInputs.cache
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\2PD_iSaugumas.exe
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\2PD_iSaugumas.pdb
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\2PD_iSaugumas.csprojResolveAssemblyReference.cache
+F:\New Install\desktop\VIKO IR15A\III kursas\II pusmetis\Informacijos saugumas\2PD_iSaugumas\2PD_iSaugumas\obj\Debug\_2PD_iSaugumas.PagrindisLangas.resources
